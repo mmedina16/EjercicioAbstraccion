@@ -1,6 +1,5 @@
-﻿using System;
-
-using EjercicioAbstraccion;
+﻿using EjercicioAbstraccion;
+using System;
 
 class Program
 {
